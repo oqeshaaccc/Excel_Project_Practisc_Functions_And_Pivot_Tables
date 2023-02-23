@@ -3,10 +3,10 @@ This is a small Excel Project to practice Functions and Pivot tables
 Clean Data was provided by the Coursera Excel Basics for Data Analysis course, I used Excel to
 -  Format the data as a table
 - Used AutoSum to calculate values for column ‘C’ and recorded each of the values:
-          SUM
-          AVERAGE
-          MIN
-          MAX
+          SUM,
+          AVERAGE,
+          MIN,
+          MAX,
           COUNT
 - Created a Pivot Tables that displays the sum of equipment count by department.
 
